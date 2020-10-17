@@ -22,7 +22,7 @@ For tutorial, here is it</p><br/>
 * **Fourth**, Open your termux and change directory to YouTubeGetContent, last you run the `main.py` with `python3 main.py`, paste link or ID you have from before.
 ![Link Video](/lib/images/3.jpg)
 ![ID Video](/lib/images/4.jpg)
-* **Last**, Pres enter and you can instantly see the result.
+* **Last**, Press enter and you can instantly see the result.
 ![](/lib/images/5.jpg)
 
 ### Give me a cup of coffee?
