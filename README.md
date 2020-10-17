@@ -16,17 +16,17 @@ For tutorial, here is it</p><br/>
 
 * **First**, you must have YouTube App on your android (For Linux, you can use this tools but you must know where the video id showing).
 * **Second**, open your Youtube App and pick one of video.
-![Screenshot 1](/lib/images/ss1.jpg)
+![Screenshot 1](/img/ss1.jpg)
 
 * **Third**, Click on share button and copy link to your clipboard.
-![Screenshot 2](/lib/images/ss2.jpg)
+![Screenshot 2](/img/ss2.jpg)
 
 * **Fourth**, Open your termux and change directory to YouTubeGetContent, last you run the `main.py` with `python3 main.py`, paste link or ID you have from before.
-![Screenshot 3 - Link Video](/lib/images/ss3.jpg)
-![Screenshot 4 - ID Video](/lib/images/ss4.jpg)
+![Screenshot 3 - Link Video](/img/ss3.jpg)
+![Screenshot 4 - ID Video](/img/ss4.jpg)
 
 * **Last**, Press enter and you can instantly see the result.
-![Screenshot 5](/lib/images/ss5.jpg)
+![Screenshot 5](/img/ss5.jpg)
 
 ### Give me a cup of coffee?
 <p align="center">With my little project, can you give me a cup of coffee? if no, it's no problem.
